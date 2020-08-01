@@ -1,0 +1,16 @@
+﻿  Tutorial 3.cpp
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(144,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(146,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(181,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(189,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(439,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(445,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  VisualDebugger.cpp
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(144,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(146,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(181,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(189,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(439,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\josep\Documents\15620535_CGP3012M\Tutorial 3\MyPhysicsEngine.h(445,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Tutorial 3.vcxproj -> C:\Users\josep\Documents\15620535_CGP3012M\x64\Debug\Tutorial 3.exe
